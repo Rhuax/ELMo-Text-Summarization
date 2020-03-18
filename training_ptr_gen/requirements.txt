@@ -24,7 +24,7 @@ pytz==2017.3
 six==1.12.0
 soupsieve==1.8
 tensorboard==1.13.1
-tensorflow==1.13.1
+tensorflow==1.15.2
 tensorflow-estimator==1.13.0
 termcolor==1.1.0
 torch==0.4.1
